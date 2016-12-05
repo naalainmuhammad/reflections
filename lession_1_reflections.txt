@@ -1,0 +1,44 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+Ans: It helped a lot because we don't have to see line by line both files. Doing it manually will take a lot of effort in terms  of time and mental power.
+The system has done this work for compared files and shown the difference between files in nano seconds.
+
+Qn: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Ans: I can access to my previous verion files, find out differences and can remove the bugs in newer vertion in a very short time.
+it will save my time and in creses efficency in the work.
+
+Qn: When you chose to save a verion?
+
+Ans: I would prffer at regular intervals.
+
+Qn : What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Ans : advanteges: I can chose according to situation
+		disadvantage : Chosing is also a difficult task 
+
+Qn : Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+     while others, like Google Docs, treat each file separately?
+
+Ans : It's better to save multiple files that are related to each other in one commit. It helps in case when making chage in one file also needs change in other files in comit
+      related to each other as HTML and CSS should be chaged when adding a button.
+
+
+
+
+Qn : How can you use the commands git log and git diff to view the history of files?
+
+Ans : It quit simple to use these commands, I used git log to see commints and then finded the Revert control copied its id and the previous commit's id.
+     Using the git diff command and the copied ids i founded the difference between to commmits line added and deleted it was simple and good to experience.
+
+Qn : How might using version control make you more confident to make changes that could break something?
+
+Ans : Now that I can easily find out bug in new verions by using git so i can code and make changes with more confidence because i dont have to woory about 
+      making change can creat a bug.
+
+Qn : Now that you have your workspace set up, what do you want to try using Git for?
+
+Ans : I want to try using Git for version controlling.
+
+
