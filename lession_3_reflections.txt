@@ -18,3 +18,22 @@ Ans : Fork : to clone someone's repository on cloud(GitHub) and make changes on 
 		computer.
 	
 	Branches: to make a version I dont want to yet add it to master.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Ans : 
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Ans : I use sharing my project using email or other file sharing options . Easy in this case is no proceture of standard steps are 
+
+	required to do this ..... Harder is that it would be difficult to view changes made by others and changes made by me .
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Ans : When make changes not yet decided to add in my working code.
+	Benifits are that we can make changes in a saperate branch, without effecting working version, test it again and agian untill we decided that fine change and can be added to 
+	working version of code.
+	
+	If we update the master by our chages and it has a bug then then deffinitly that bug will be in you wrking version.
