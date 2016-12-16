@@ -8,3 +8,13 @@ with your remote repository?
 
 Ans : If i made changes that i dont yet want to publically share, here manually will help me. Automatically staying up-to-date
  	will push that changes even if i dont want to.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Ans : Fork : to clone someone's repository on cloud(GitHub) and make changes on cloude using GitHub.
+
+	
+	Clones: to download an online repository to my computer or to make another repository of a repository on my local 
+		computer.
+	
+	Branches: to make a version I dont want to yet add it to master.
